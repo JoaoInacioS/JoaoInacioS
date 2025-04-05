@@ -11,13 +11,17 @@
     <a href="https://github.com/JoaoInacioS?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
     <a href="https://github.com/JoaoInacioS?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
     <a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927"></a>
+</p>
+
+<p align="center">
+    <a target="_blank"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-darkgreen?logo=anaconda"></a>
     <a target="_blank"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-azul?logo=markdown&logoColor=white&color=2b5b84"></a>
     <a target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"></a>
 </p>
+
 <p align="center">
     <a target="_blank"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-IDE-blue?logo=visualstudiocode"></a>
     <a target="_blank"><img alt="RStudio" src="https://img.shields.io/badge/RStudio-IDE-blue?logo=RStudio"></a>
-    <a target="_blank"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-gray?logo=anaconda"></a>
 </p>
 
 <details>
