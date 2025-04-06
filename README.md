@@ -12,6 +12,9 @@
 <p align="center">
     <a href="https://github.com/JoaoInacioS?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
     <a href="https://github.com/JoaoInacioS?tab=repositories&language=r & rmarkdown" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
+    <a href="https://github.com/JoaoInacioS?tab=repositories&q=topic:rmarkdown" target="_blank">
+  <img alt="RMarkdown" src="https://img.shields.io/badge/RMarkdown-198CE7?style=flat-square&logo=r&logoColor=white">
+</a>
     <a href="https://github.com/JoaoInacioS?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
     <a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927"></a>
 </p>
