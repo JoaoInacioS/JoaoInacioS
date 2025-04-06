@@ -1,8 +1,6 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/JoaoInacioS/JoaoInacioS/main/I_am.gif" align="center" width="1000">
+<img src="https://raw.githubusercontent.com/JoaoInacioS/JoaoInacioS/main/I_am.gif" width="1100">
 </p>
-<img src="https://raw.githubusercontent.com/JoaoInacioS/JoaoInacioS/main/hi.gif" align="right" alt="Hi!" width="100">
-
 
 <p align="center">
     <a href="https://github.com/JoaoInacioS/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@JoaoInacioS-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
@@ -27,6 +25,7 @@
     <a target="_blank"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-IDE-blue?logo=visualstudiocode"></a>
     <a target="_blank"><img alt="RStudio" src="https://img.shields.io/badge/RStudio-IDE-blue?logo=RStudio"></a>
 </p>
+<img src="https://raw.githubusercontent.com/JoaoInacioS/JoaoInacioS/main/hi.gif" align="right" alt="Hi!" width="70">
 
 <details>
 <summary>Click for GitHub Stats</summary>
