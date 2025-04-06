@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<img src="https://raw.githubusercontent.com/JoaoInacioS/JoaoInacioS/main/I_am.gif" width="920"><img src="https://raw.githubusercontent.com/JoaoInacioS/JoaoInacioS/main/hi.gif" width="80">
+<img src="https://raw.githubusercontent.com/JoaoInacioS/JoaoInacioS/main/I_am.gif" width="700"><img src="https://raw.githubusercontent.com/JoaoInacioS/JoaoInacioS/main/hi.gif" width="61">
 
 <p align="center">
     <a href="https://github.com/JoaoInacioS/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@JoaoInacioS-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
