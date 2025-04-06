@@ -1,6 +1,8 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/JoaoInacioS/JoaoInacioS/main/I_am.gif" width="900">
+<img src="https://raw.githubusercontent.com/JoaoInacioS/JoaoInacioS/main/I_am.gif" align="center" width="1000">
 </p>
+<img src="https://raw.githubusercontent.com/JoaoInacioS/JoaoInacioS/main/hi.gif" align="right" alt="Hi!" width="100">
+
 
 <p align="center">
     <a href="https://github.com/JoaoInacioS/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@JoaoInacioS-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
