@@ -30,6 +30,6 @@
 
 <details>
 <summary>Click for GitHub Stats</summary>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoInacioS&show_icons=true&count_private=true&theme=gruvbox" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoInacioS&layout=compact&count_private=true&theme=gruvbox" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoInacioS&show_icons=true&title_color=blue&icon_color=19ff97&text_color=6f9f9f&bg_color=151515" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoInacioS&show_icons=true&title_color=blue&icon_color=19ff97&text_color=6f9f9f&bg_color=151515" />
 </details>
