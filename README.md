@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/JoaoInacioS/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@JoaoInacioS-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-in%C3%A1cio-scrimini-417581251/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="https://github.com/JoaoInacioS/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@JoaoInacioS-181716?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-in%C3%A1cio-scrimini-417581251/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
+    <a href="mailto:joao.inacio.scrimini@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white"></a>
     <a href="https://orcid.org/0009-0006-7971-9641" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
 </p>
 
