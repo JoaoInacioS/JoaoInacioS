@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://raw.githubusercontent.com/JoaoInacioS/JoaoInacioS/main/I_am.gif" width="920"><img src="https://raw.githubusercontent.com/JoaoInacioS/JoaoInacioS/main/hi.gif" width="80">
+
 <p align="center">
     <a href="https://github.com/JoaoInacioS/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@JoaoInacioS-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/jo%C3%A3o-in%C3%A1cio-scrimini-417581251/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
