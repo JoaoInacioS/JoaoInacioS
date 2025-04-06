@@ -18,7 +18,7 @@
 
 <p align="center">
     <a target="_blank"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-darkgreen?logo=anaconda"></a>
-    <a target="_blank"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-azul?logo=markdown&logoColor=white&color=2b5b84"></a>
+    <a href="https://github.com/JoaoInacioS?tab=repositories&language=rmd"target="_blank"><img alt="RMarkdown" src="https://img.shields.io/badge/RMarkdown-azul?logo=markdown&logoColor=white&color=2b5b84"></a>
     <a target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"></a>
 </p>
 
