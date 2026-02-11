@@ -29,10 +29,24 @@
 <img src="https://raw.githubusercontent.com/JoaoInacioS/JoaoInacioS/main/hi.gif" align="right" alt="Hi!" width="70">
 
 <details>
-<summary>Click for GitHub Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=JoaoInacioS&show_icons=true&title_color=blue&text_color=6f9f9f&icon_color=19ff98&bg_color=151515" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoInacioS&layout=compact&show_icons=true&title_color=blue&text_color=6f9f9f&icon_color=19ff98&bg_color=151515" />
+  <summary>📊 Click for GitHub Stats</summary>
+  <br>
+
+  <div align="center">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=JoaoInacioS&show_icons=true&title_color=blue&text_color=6f9f9f&icon_color=19ff98&bg_color=151515"
+      alt="GitHub Stats de JoaoInacioS"
+      height="180"
+    />
+
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoInacioS&layout=compact&title_color=blue&text_color=6f9f9f&icon_color=19ff98&bg_color=151515"
+      alt="Linguagens mais usadas por JoaoInacioS"
+      height="180"
+    />
+  </div>
 </details>
+
 
 
 
